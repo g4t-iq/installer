@@ -22,7 +22,7 @@ class NewCommandTest extends TestCase
             }
         }
 
-        $app = new Application('Laravel Installer');
+        $app = new Application('Harmony Installer');
         $app->add(new NewCommand);
 
         $tester = new CommandTester($app->find('new'));

@@ -1,7 +1,7 @@
 {
     "name": "harmony-framework/installer",
-    "description": "Laravel application installer.",
-    "keywords": ["laravel"],
+    "description": "harmont application installer.",
+    "keywords": ["harmont"],
     "license": "MIT",
     "authors": [
         {

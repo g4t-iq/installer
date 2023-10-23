@@ -1,4 +1,4 @@
 php:
-  preset: laravel
+  preset: harmony
 js: true
 css: true
